@@ -19,7 +19,7 @@
 ✍️ &nbsp;In my free time, I paint, read books and pursue writing as my hobbies.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on any topics!\
 ✉️ &nbsp;You can email me at tahsinahmed52225@gmail.com. I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [Resume](https://tahsinahmed.com) for more details about work experience.
+📄 &nbsp;You can check my [Website](https://tahsinahmed.com) for more details about work experience.
 
 
 ### 🛠 &nbsp;Tech Stack
