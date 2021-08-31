@@ -2,8 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Tahsin</h1>
-<hr>
-<h3 align="center">Web developer & Researche</h3>
+<h3 align="center">Web developer & Researcher</h3>
 
 ![profile count](https://komarev.com/ghpvc/?username=Tahsin-Ahmed52225&color=red)&nbsp;
 [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/Tahsin-Ahmed52225?label=follow&style=social)](https://github.com/Tahsin-Ahmed52225)&nbsp;
