@@ -10,7 +10,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a web developer at TheDevGarden, working on in house production using the Laravel. \
+💡 &nbsp; I'm a web developer at TheDevGarden, working on in house production using Laravel. \
 💻 &nbsp;I'm currently performing research in the field of Speech Emotion Recognation , Dhaka- Bangladesh.\
 🎓&nbsp;I graduated form Stamford University Bangladesh, Dhaka (B.Sc, Computer Science and Engineering, Batch of 2021).\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Deep Learning , Computer Vision.\
@@ -30,9 +30,11 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=092E20)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 
+![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=wordpress&logoColor=092E20)&nbsp;
+![Ghost](https://img.shields.io/badge/-Ghost-05122A?style=flat&logo=ghost&logoColor=092E20)&nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
