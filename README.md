@@ -11,8 +11,8 @@
 
 
 ### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp; I'm a web developer at TheDevGarden, working on in house production using Laravel. \
+💡 &nbsp; Currently working as a Software Engineer at Adventure Dhaka Limited. \
+💡 &nbsp; I was a web developer at TheDevGarden, working on in house production using Laravel. \
 💻 &nbsp;I'm currently performing research in the field of Speech Emotion Recognation , Dhaka- Bangladesh.\
 🎓&nbsp;I graduated form Stamford University Bangladesh, Dhaka (B.Sc, Computer Science and Engineering, Batch of 2021).\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Deep Learning , Computer Vision.\
